@@ -1,0 +1,5851 @@
+alpha: 0.1
+sample_rate: 1.0
+use_filter: true
+filter_capacity: 40000000
+slot_mask: 1
+slot_mask: 3
+slot_mask: 5
+slot_mask: 6
+slot_mask: 7
+slot_mask: 9
+slot_mask: 12
+slot_mask: 13
+slot_mask: 14
+slot_mask: 17
+slot_mask: 19
+slot_mask: 20
+slot_mask: 21
+slot_mask: 22
+slot_mask: 23
+slot_mask: 24
+slot_mask: 25
+slot_mask: 26
+slot_mask: 27
+slot_mask: 28
+slot_mask: 29
+slot_mask: 30
+slot_mask: 31
+slot_mask: 32
+slot_mask: 33
+slot_mask: 34
+slot_mask: 35
+slot_mask: 36
+slot_mask: 37
+slot_mask: 38
+slot_mask: 39
+slot_mask: 40
+slot_mask: 41
+slot_mask: 42
+slot_mask: 43
+slot_mask: 44
+slot_mask: 45
+slot_mask: 46
+slot_mask: 47
+slot_mask: 48
+slot_mask: 49
+slot_mask: 50
+slot_mask: 51
+slot_mask: 52
+slot_mask: 53
+slot_mask: 54
+slot_mask: 55
+slot_mask: 56
+slot_mask: 57
+slot_mask: 58
+slot_mask: 59
+slot_mask: 60
+slot_mask: 61
+slot_mask: 62
+slot_mask: 63
+slot_mask: 64
+slot_mask: 65
+slot_mask: 66
+slot_mask: 67
+slot_mask: 68
+slot_mask: 69
+slot_mask: 70
+slot_mask: 71
+slot_mask: 72
+slot_mask: 73
+slot_mask: 74
+slot_mask: 75
+slot_mask: 76
+slot_mask: 77
+slot_mask: 78
+slot_mask: 79
+slot_mask: 80
+slot_mask: 81
+slot_mask: 82
+slot_mask: 83
+slot_mask: 84
+slot_mask: 85
+slot_mask: 86
+slot_mask: 87
+slot_mask: 88
+slot_mask: 89
+slot_mask: 90
+slot_mask: 91
+slot_mask: 92
+slot_mask: 93
+slot_mask: 94
+slot_mask: 95
+slot_mask: 96
+slot_mask: 97
+slot_mask: 98
+slot_mask: 99
+slot_mask: 100
+slot_mask: 101
+slot_mask: 102
+slot_mask: 103
+slot_mask: 104
+slot_mask: 105
+slot_mask: 106
+slot_mask: 107
+slot_mask: 108
+slot_mask: 109
+slot_mask: 110
+slot_mask: 111
+slot_mask: 112
+slot_mask: 114
+slot_mask: 115
+slot_mask: 116
+slot_mask: 117
+slot_mask: 118
+slot_mask: 119
+slot_mask: 120
+slot_mask: 121
+slot_mask: 122
+slot_mask: 123
+slot_mask: 124
+slot_mask: 125
+slot_mask: 126
+slot_mask: 127
+slot_mask: 128
+slot_mask: 129
+slot_mask: 130
+slot_mask: 131
+slot_mask: 132
+slot_mask: 133
+slot_mask: 134
+slot_mask: 135
+slot_mask: 136
+slot_mask: 137
+slot_mask: 138
+slot_mask: 139
+slot_mask: 140
+slot_mask: 141
+slot_mask: 142
+slot_mask: 143
+slot_mask: 144
+slot_mask: 145
+slot_mask: 146
+slot_mask: 147
+slot_mask: 148
+slot_mask: 149
+slot_mask: 150
+slot_mask: 151
+slot_mask: 152
+slot_mask: 153
+slot_mask: 154
+slot_mask: 155
+slot_mask: 156
+slot_mask: 157
+slot_mask: 158
+slot_mask: 159
+slot_mask: 160
+slot_mask: 161
+slot_mask: 162
+slot_mask: 163
+slot_mask: 164
+slot_mask: 165
+slot_mask: 166
+slot_mask: 167
+slot_mask: 168
+slot_mask: 169
+slot_mask: 170
+slot_mask: 171
+slot_mask: 172
+slot_mask: 173
+slot_mask: 174
+slot_mask: 175
+slot_mask: 176
+slot_mask: 177
+slot_mask: 178
+slot_mask: 179
+slot_mask: 180
+slot_mask: 181
+slot_mask: 182
+slot_mask: 183
+slot_mask: 184
+slot_mask: 185
+slot_mask: 186
+slot_mask: 187
+slot_mask: 188
+slot_mask: 189
+slot_mask: 190
+slot_mask: 191
+slot_mask: 192
+slot_mask: 193
+slot_mask: 194
+slot_mask: 195
+slot_mask: 196
+slot_mask: 197
+slot_mask: 198
+slot_mask: 199
+slot_mask: 200
+slot_mask: 211
+slot_mask: 212
+slot_mask: 214
+slot_mask: 215
+slot_mask: 216
+slot_mask: 221
+slot_mask: 222
+slot_mask: 223
+slot_mask: 224
+slot_mask: 225
+slot_mask: 226
+slot_mask: 227
+slot_mask: 228
+slot_mask: 229
+slot_mask: 230
+slot_mask: 231
+slot_mask: 232
+slot_mask: 233
+slot_mask: 234
+slot_mask: 235
+slot_mask: 236
+slot_mask: 237
+slot_mask: 238
+slot_mask: 239
+slot_mask: 240
+slot_mask: 241
+slot_mask: 242
+slot_mask: 243
+slot_mask: 244
+slot_mask: 246
+slot_mask: 247
+slot_mask: 248
+slot_mask: 249
+slot_mask: 250
+slot_mask: 251
+slot_mask: 252
+slot_mask: 253
+slot_mask: 254
+slot_mask: 255
+slot_mask: 256
+slot_mask: 257
+slot_mask: 258
+slot_mask: 259
+slot_mask: 260
+slot_mask: 261
+slot_mask: 262
+slot_mask: 263
+slot_mask: 264
+slot_mask: 265
+slot_mask: 266
+slot_mask: 267
+slot_mask: 268
+slot_mask: 269
+slot_mask: 270
+slot_mask: 271
+slot_mask: 272
+slot_mask: 273
+slot_mask: 274
+slot_mask: 275
+slot_mask: 276
+slot_mask: 277
+slot_mask: 278
+slot_mask: 279
+slot_mask: 280
+slot_mask: 281
+slot_mask: 282
+slot_mask: 283
+slot_mask: 284
+slot_mask: 285
+slot_mask: 286
+slot_mask: 287
+slot_mask: 288
+slot_mask: 289
+slot_mask: 290
+slot_mask: 291
+slot_mask: 292
+slot_mask: 293
+slot_mask: 294
+slot_mask: 295
+slot_mask: 296
+slot_mask: 297
+slot_mask: 298
+slot_mask: 299
+slot_mask: 300
+slot_mask: 301
+slot_mask: 302
+slot_mask: 303
+slot_mask: 304
+slot_mask: 305
+slot_mask: 306
+slot_mask: 307
+slot_mask: 308
+slot_mask: 309
+slot_mask: 310
+slot_mask: 311
+slot_mask: 312
+slot_mask: 313
+slot_mask: 314
+slot_mask: 315
+slot_mask: 316
+slot_mask: 317
+slot_mask: 318
+slot_mask: 319
+slot_mask: 320
+slot_mask: 321
+slot_mask: 322
+slot_mask: 323
+slot_mask: 324
+slot_mask: 325
+slot_mask: 326
+slot_mask: 327
+slot_mask: 328
+slot_mask: 329
+slot_mask: 330
+slot_mask: 331
+slot_mask: 332
+slot_mask: 333
+slot_mask: 334
+slot_mask: 335
+slot_mask: 336
+slot_mask: 337
+slot_mask: 338
+slot_mask: 339
+slot_mask: 340
+slot_mask: 341
+slot_mask: 342
+slot_mask: 343
+slot_mask: 344
+slot_mask: 345
+slot_mask: 346
+slot_mask: 347
+slot_mask: 348
+slot_mask: 349
+slot_mask: 350
+slot_mask: 351
+slot_mask: 352
+slot_mask: 353
+slot_mask: 354
+slot_mask: 355
+slot_mask: 356
+slot_mask: 357
+slot_mask: 358
+slot_mask: 359
+slot_mask: 360
+slot_mask: 361
+slot_mask: 362
+slot_mask: 363
+slot_mask: 364
+slot_mask: 365
+slot_mask: 366
+slot_mask: 367
+slot_mask: 368
+slot_mask: 369
+slot_mask: 370
+slot_mask: 371
+slot_mask: 372
+slot_mask: 373
+slot_mask: 374
+slot_mask: 375
+slot_mask: 376
+slot_mask: 377
+slot_mask: 378
+slot_mask: 379
+slot_mask: 380
+slot_mask: 381
+slot_mask: 382
+slot_mask: 383
+slot_mask: 384
+slot_mask: 385
+slot_mask: 386
+slot_mask: 387
+slot_mask: 388
+slot_mask: 389
+slot_mask: 390
+slot_mask: 391
+slot_mask: 392
+slot_mask: 393
+slot_mask: 394
+slot_mask: 395
+slot_mask: 396
+slot_mask: 397
+slot_mask: 398
+slot_mask: 399
+slot_mask: 400
+slot_mask: 401
+slot_mask: 402
+slot_mask: 403
+slot_mask: 404
+slot_mask: 405
+slot_mask: 406
+slot_mask: 407
+slot_mask: 408
+slot_mask: 409
+slot_mask: 410
+slot_mask: 411
+slot_mask: 412
+slot_mask: 413
+slot_mask: 414
+slot_mask: 415
+slot_mask: 416
+slot_mask: 417
+slot_mask: 418
+slot_mask: 419
+slot_mask: 420
+slot_mask: 421
+slot_mask: 422
+slot_mask: 423
+slot_mask: 424
+slot_mask: 425
+slot_mask: 426
+slot_mask: 427
+slot_mask: 428
+slot_mask: 429
+slot_mask: 430
+slot_mask: 431
+slot_mask: 432
+slot_mask: 433
+slot_mask: 435
+slot_mask: 436
+slot_mask: 437
+slot_mask: 438
+slot_mask: 439
+slot_mask: 440
+slot_mask: 441
+slot_mask: 442
+slot_mask: 443
+slot_mask: 444
+slot_mask: 445
+slot_mask: 446
+slot_mask: 447
+slot_mask: 448
+slot_mask: 449
+slot_mask: 450
+slot_mask: 451
+slot_mask: 452
+slot_mask: 453
+slot_mask: 454
+slot_mask: 455
+slot_mask: 456
+slot_mask: 457
+slot_mask: 458
+slot_mask: 459
+slot_mask: 460
+slot_mask: 461
+slot_mask: 462
+slot_mask: 463
+slot_mask: 464
+slot_mask: 465
+slot_mask: 466
+slot_mask: 467
+slot_mask: 468
+slot_mask: 469
+slot_mask: 470
+slot_mask: 471
+slot_mask: 472
+slot_mask: 473
+slot_mask: 474
+slot_mask: 475
+slot_mask: 476
+slot_mask: 477
+slot_mask: 478
+slot_mask: 479
+slot_mask: 480
+slot_mask: 481
+slot_mask: 482
+slot_mask: 483
+slot_mask: 484
+slot_mask: 485
+slot_mask: 486
+slot_mask: 487
+slot_mask: 488
+slot_mask: 489
+slot_mask: 490
+slot_mask: 491
+slot_mask: 492
+slot_mask: 493
+slot_mask: 494
+slot_mask: 495
+slot_mask: 496
+slot_mask: 497
+slot_mask: 498
+slot_mask: 499
+slot_mask: 503
+slot_mask: 504
+slot_mask: 505
+slot_mask: 506
+slot_mask: 507
+slot_mask: 508
+slot_mask: 509
+slot_mask: 510
+slot_mask: 514
+slot_mask: 515
+slot_mask: 516
+slot_mask: 517
+slot_mask: 518
+slot_mask: 519
+slot_mask: 520
+slot_mask: 521
+slot_mask: 522
+slot_mask: 523
+slot_mask: 524
+slot_mask: 525
+slot_mask: 526
+slot_mask: 527
+slot_mask: 528
+slot_mask: 529
+slot_mask: 530
+slot_mask: 531
+slot_mask: 532
+slot_mask: 533
+slot_mask: 534
+slot_mask: 535
+slot_mask: 536
+slot_mask: 537
+slot_mask: 538
+slot_mask: 539
+slot_mask: 540
+slot_mask: 541
+slot_mask: 542
+slot_mask: 543
+slot_mask: 544
+slot_mask: 545
+slot_mask: 546
+slot_mask: 547
+slot_mask: 548
+slot_mask: 550
+slot_mask: 552
+slot_mask: 562
+slot_mask: 563
+slot_mask: 564
+slot_mask: 565
+slot_mask: 566
+slot_mask: 567
+slot_mask: 568
+slot_mask: 569
+slot_mask: 570
+slot_mask: 571
+slot_mask: 572
+slot_mask: 573
+slot_mask: 574
+slot_mask: 575
+slot_mask: 576
+slot_mask: 577
+slot_mask: 578
+slot_mask: 579
+slot_mask: 580
+slot_mask: 581
+slot_mask: 582
+slot_mask: 583
+slot_mask: 584
+slot_mask: 585
+slot_mask: 586
+slot_mask: 587
+slot_mask: 588
+slot_mask: 589
+slot_mask: 590
+slot_mask: 592
+slot_mask: 593
+slot_mask: 594
+slot_mask: 595
+slot_mask: 596
+slot_mask: 597
+slot_mask: 598
+slot_mask: 599
+slot_mask: 600
+slot_mask: 601
+slot_mask: 602
+slot_mask: 603
+slot_mask: 604
+slot_mask: 605
+slot_mask: 606
+slot_mask: 607
+slot_mask: 608
+slot_mask: 609
+slot_mask: 610
+slot_mask: 611
+slot_mask: 612
+slot_mask: 613
+slot_mask: 614
+slot_mask: 615
+slot_mask: 616
+slot_mask: 617
+slot_mask: 618
+slot_mask: 619
+slot_mask: 620
+slot_mask: 621
+slot_mask: 622
+slot_mask: 623
+slot_mask: 624
+slot_mask: 625
+slot_mask: 626
+slot_mask: 627
+slot_mask: 628
+slot_mask: 629
+slot_mask: 630
+slot_mask: 631
+slot_mask: 632
+slot_mask: 633
+slot_mask: 634
+slot_mask: 635
+slot_mask: 636
+slot_mask: 637
+slot_mask: 638
+slot_mask: 639
+slot_mask: 640
+slot_mask: 641
+slot_mask: 642
+slot_mask: 643
+slot_mask: 644
+slot_mask: 645
+slot_mask: 646
+slot_mask: 647
+slot_mask: 648
+slot_mask: 649
+slot_mask: 650
+slot_mask: 651
+slot_mask: 652
+slot_mask: 653
+slot_mask: 654
+slot_mask: 655
+slot_mask: 656
+slot_mask: 657
+slot_mask: 658
+slot_mask: 659
+slot_mask: 660
+slot_mask: 661
+slot_mask: 662
+slot_mask: 663
+slot_mask: 664
+slot_mask: 665
+slot_mask: 666
+slot_mask: 667
+slot_mask: 668
+slot_mask: 669
+slot_mask: 670
+slot_mask: 671
+slot_mask: 672
+slot_mask: 673
+slot_mask: 674
+slot_mask: 675
+slot_mask: 676
+slot_mask: 677
+slot_mask: 678
+slot_mask: 679
+slot_mask: 680
+slot_mask: 681
+slot_mask: 682
+slot_mask: 683
+slot_mask: 684
+slot_mask: 685
+slot_mask: 686
+slot_mask: 687
+slot_mask: 688
+slot_mask: 689
+slot_mask: 690
+slot_mask: 691
+slot_mask: 692
+slot_mask: 693
+slot_mask: 694
+slot_mask: 695
+slot_mask: 696
+slot_mask: 697
+slot_mask: 698
+slot_mask: 699
+slot_mask: 700
+slot_mask: 701
+slot_mask: 702
+slot_mask: 703
+slot_mask: 704
+slot_mask: 705
+slot_mask: 706
+slot_mask: 707
+slot_mask: 708
+slot_mask: 709
+slot_mask: 710
+slot_mask: 711
+slot_mask: 712
+slot_mask: 713
+slot_mask: 714
+slot_mask: 715
+slot_mask: 716
+slot_mask: 717
+slot_mask: 718
+slot_mask: 719
+slot_mask: 720
+slot_mask: 721
+slot_mask: 722
+slot_mask: 723
+slot_mask: 724
+slot_mask: 725
+slot_mask: 726
+slot_mask: 727
+slot_mask: 728
+slot_mask: 729
+slot_mask: 730
+slot_mask: 731
+slot_mask: 732
+slot_mask: 733
+slot_mask: 734
+slot_mask: 735
+slot_mask: 736
+slot_mask: 737
+slot_mask: 738
+slot_mask: 739
+slot_mask: 740
+slot_mask: 741
+slot_mask: 742
+slot_mask: 743
+slot_mask: 744
+slot_mask: 745
+slot_mask: 746
+slot_mask: 747
+slot_mask: 748
+slot_mask: 749
+slot_mask: 750
+slot_mask: 751
+slot_mask: 752
+slot_mask: 753
+slot_mask: 754
+slot_mask: 755
+slot_mask: 756
+slot_mask: 757
+slot_mask: 758
+slot_mask: 759
+slot_mask: 760
+slot_mask: 761
+slot_mask: 762
+slot_mask: 763
+slot_mask: 764
+slot_mask: 765
+slot_mask: 766
+slot_mask: 767
+slot_mask: 768
+slot_mask: 769
+slot_mask: 770
+slot_mask: 771
+slot_mask: 772
+slot_mask: 773
+slot_mask: 774
+slot_mask: 775
+slot_mask: 776
+slot_mask: 777
+slot_mask: 778
+slot_mask: 779
+slot_mask: 780
+slot_mask: 781
+slot_mask: 782
+slot_mask: 783
+slot_mask: 784
+slot_mask: 785
+slot_mask: 786
+slot_mask: 787
+slot_mask: 788
+slot_mask: 789
+slot_mask: 790
+slot_mask: 791
+slot_mask: 792
+slot_mask: 793
+slot_mask: 794
+slot_mask: 795
+slot_mask: 796
+slot_mask: 797
+slot_mask: 798
+slot_mask: 799
+slot_mask: 800
+slot_mask: 801
+slot_mask: 802
+slot_mask: 803
+slot_mask: 804
+slot_mask: 805
+slot_mask: 806
+slot_mask: 807
+slot_mask: 808
+slot_mask: 809
+slot_mask: 810
+slot_mask: 811
+slot_mask: 812
+slot_mask: 813
+slot_mask: 814
+slot_mask: 815
+slot_mask: 816
+slot_mask: 817
+slot_mask: 818
+slot_mask: 819
+slot_mask: 820
+slot_mask: 821
+slot_mask: 822
+slot_mask: 823
+slot_mask: 824
+slot_mask: 825
+slot_mask: 826
+slot_mask: 827
+slot_mask: 828
+slot_mask: 829
+slot_mask: 830
+slot_mask: 831
+slot_mask: 832
+slot_mask: 833
+slot_mask: 834
+slot_mask: 835
+slot_mask: 836
+slot_mask: 837
+slot_mask: 838
+slot_mask: 839
+slot_mask: 840
+slot_mask: 841
+slot_mask: 842
+slot_mask: 843
+slot_mask: 844
+slot_mask: 845
+slot_mask: 846
+slot_mask: 847
+slot_mask: 848
+slot_mask: 849
+slot_mask: 850
+slot_mask: 851
+slot_mask: 852
+slot_mask: 853
+slot_mask: 854
+slot_mask: 855
+slot_mask: 856
+slot_mask: 857
+slot_mask: 858
+slot_mask: 859
+slot_mask: 860
+slot_mask: 861
+slot_mask: 862
+slot_mask: 863
+slot_mask: 864
+slot_mask: 865
+slot_mask: 866
+slot_mask: 867
+slot_mask: 868
+slot_mask: 869
+slot_mask: 870
+slot_mask: 871
+slot_mask: 872
+slot_mask: 873
+slot_mask: 874
+slot_mask: 875
+slot_mask: 876
+slot_mask: 877
+slot_mask: 878
+slot_mask: 879
+slot_mask: 880
+slot_mask: 881
+slot_mask: 882
+slot_mask: 883
+slot_mask: 884
+slot_mask: 885
+slot_mask: 886
+slot_mask: 887
+slot_mask: 888
+slot_mask: 889
+slot_mask: 890
+slot_mask: 891
+slot_mask: 892
+slot_mask: 893
+slot_mask: 894
+slot_mask: 895
+slot_mask: 896
+slot_mask: 897
+slot_mask: 898
+slot_mask: 899
+slot_mask: 900
+slot_mask: 901
+slot_mask: 902
+slot_mask: 903
+slot_mask: 904
+slot_mask: 905
+slot_mask: 906
+slot_mask: 907
+slot_mask: 908
+slot_mask: 909
+slot_mask: 910
+slot_mask: 911
+slot_mask: 912
+slot_mask: 913
+slot_mask: 914
+slot_mask: 915
+slot_mask: 916
+slot_mask: 917
+slot_mask: 918
+slot_mask: 919
+slot_mask: 920
+slot_mask: 921
+slot_mask: 922
+slot_mask: 923
+slot_mask: 924
+slot_mask: 925
+slot_mask: 926
+slot_mask: 927
+slot_mask: 928
+slot_mask: 929
+slot_mask: 930
+slot_mask: 931
+slot_mask: 932
+slot_mask: 933
+slot_mask: 934
+slot_mask: 935
+slot_mask: 936
+slot_mask: 937
+slot_mask: 938
+slot_mask: 939
+slot_mask: 940
+slot_mask: 941
+slot_mask: 942
+slot_mask: 943
+slot_mask: 944
+slot_mask: 945
+slot_mask: 946
+slot_mask: 947
+slot_mask: 948
+slot_mask: 949
+slot_mask: 950
+slot_mask: 951
+slot_mask: 952
+slot_mask: 953
+slot_mask: 954
+slot_mask: 955
+slot_mask: 956
+slot_mask: 957
+slot_mask: 958
+slot_mask: 959
+slot_mask: 960
+slot_mask: 961
+slot_mask: 962
+slot_mask: 963
+slot_mask: 964
+slot_mask: 965
+slot_mask: 966
+slot_mask: 967
+slot_mask: 968
+slot_mask: 969
+slot_mask: 970
+slot_mask: 971
+slot_mask: 972
+slot_mask: 973
+slot_mask: 974
+slot_mask: 975
+slot_mask: 976
+slot_mask: 977
+slot_mask: 978
+slot_mask: 979
+slot_mask: 980
+slot_mask: 981
+slot_mask: 982
+slot_mask: 983
+slot_mask: 984
+slot_mask: 985
+slot_mask: 986
+slot_mask: 987
+slot_mask: 988
+slot_mask: 989
+slot_mask: 990
+slot_mask: 991
+slot_mask: 992
+slot_mask: 993
+slot_mask: 994
+slot_mask: 995
+slot_mask: 996
+slot_mask: 997
+slot_mask: 998
+slot_mask: 999
+slot_mask: 1000
+slot_mask: 1001
+slot_mask: 1002
+slot_mask: 1003
+slot_mask: 1004
+slot_mask: 1005
+slot_mask: 1006
+slot_mask: 1007
+slot_mask: 1008
+slot_mask: 1009
+slot_mask: 1010
+slot_mask: 1011
+slot_mask: 1012
+slot_mask: 1013
+slot_mask: 1014
+slot_mask: 1015
+slot_mask: 1016
+slot_mask: 1017
+slot_mask: 1018
+slot_mask: 1019
+slot_mask: 1020
+slot_mask: 1021
+slot_mask: 1022
+slot_mask: 1023
+model_size: 3000000
+sliding_filter: true
+sliding_split_number: 7
+independent_filter: true
+slot_config {
+  slot_id: 2
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.1
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 4
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 8
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 1312
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 10
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 1312
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 11
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 15
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 16
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 18
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 113
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 201
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 202
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 203
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 204
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 205
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 206
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 207
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 208
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 209
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 210
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 213
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 217
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 218
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 219
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 220
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 245
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 500
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 501
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 502
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 511
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 512
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 513
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 549
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 551
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 553
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 554
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 555
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 556
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 557
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 558
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 559
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 560
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 561
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 480
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 591
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 960
+  vec_alpha: 0.04
+  vec_beta: 1.0
+  vec_lambda1: 0.0
+  vec_lambda2: 0.0
+  vec_init_factor: -0.015625
+  train: true
+  opt_type: 0
+  expire_time: 0
+}
+slot_config {
+  slot_id: 0
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 0
+  train: true
+}
+slot_config {
+  slot_id: 434
+  alpha: 0.01
+  beta: 1.0
+  lambda1: 0.1
+  lambda2: 0.0
+  slot_mask: false
+  sparse_slot: false
+  occurrence_threshold: 0
+  vec_dimension: 0
+  train: true
+  expire_time: 0
+}
+perslot_training: true
+use_network: true
+vec_model_size: 1200000
+train: true
+network_fid {
+  name: "nn_tower/layer1/bias_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1024
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer1/weight_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 1024
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer1/weight/learn_norm_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 1024
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/bias_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 64
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight/learn_norm_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 64
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard0_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard1_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard10_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard11_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard12_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard13_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard14_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard15_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard16_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard17_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard18_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard19_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard2_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard20_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard21_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard22_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard23_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard24_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard25_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard26_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard27_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard28_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard29_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard3_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard30_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard31_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard4_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard5_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard6_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard7_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard8_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer2/weight_shard9_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer3/bias_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 32
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer3/weight_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 64
+  dim: 32
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "nn_tower/layer3/weight/learn_norm_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 32
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/bias_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1024
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight/learn_norm_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 1024
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard0_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard1_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard10_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard100_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard101_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard102_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard103_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard104_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard105_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard106_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard107_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard108_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard109_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard11_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard110_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard111_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard112_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard113_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard114_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard115_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard116_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard117_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard118_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard119_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard12_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard120_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard121_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard122_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard123_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard124_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard125_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard126_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard127_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard128_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard129_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard13_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard130_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard131_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard132_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard133_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard134_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard135_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard136_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard137_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard138_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard139_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard14_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard140_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard141_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard142_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard143_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard144_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard145_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard146_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard147_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard148_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard149_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard15_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard150_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard151_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard152_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard153_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard154_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard155_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard156_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard157_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard158_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard159_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard16_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard160_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard161_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard162_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard163_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard164_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard165_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard166_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard167_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard168_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard169_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard17_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard170_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard171_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard172_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard173_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard174_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard175_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard176_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard177_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard178_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard179_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard18_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard180_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard181_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard182_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard183_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard184_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard185_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard186_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard187_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard188_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard189_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard19_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard190_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard191_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard192_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard193_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard194_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard195_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard196_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard197_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard198_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard199_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard2_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard20_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard200_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard201_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard202_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard203_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard204_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard205_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard206_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard207_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard208_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard209_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard21_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard210_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard211_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard212_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard213_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard214_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard215_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard216_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard217_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard218_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard219_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard22_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard220_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard221_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard222_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard23_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard24_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard25_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard26_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard27_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard28_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard29_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard3_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard30_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard31_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard32_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard33_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard34_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard35_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard36_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard37_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard38_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard39_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard4_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard40_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard41_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard42_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard43_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard44_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard45_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard46_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard47_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard48_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard49_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard5_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard50_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard51_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard52_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard53_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard54_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard55_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard56_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard57_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard58_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard59_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard6_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard60_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard61_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard62_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard63_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard64_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard65_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard66_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard67_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard68_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard69_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard7_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard70_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard71_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard72_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard73_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard74_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard75_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard76_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard77_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard78_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard79_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard8_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard80_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard81_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard82_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard83_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard84_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard85_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard86_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard87_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard88_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard89_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard9_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard90_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard91_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard92_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard93_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard94_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard95_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard96_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard97_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard98_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer1/weight_shard99_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 65536
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/bias_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 256
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight/learn_norm_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 256
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard0_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard1_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard10_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard100_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard101_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard102_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard103_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard104_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard105_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard106_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard107_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard108_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard109_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard11_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard110_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard111_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard112_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard113_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard114_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard115_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard116_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard117_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard118_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard119_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard12_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard120_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard121_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard122_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard123_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard124_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard125_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard126_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard127_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard13_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard14_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard15_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard16_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard17_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard18_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard19_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard2_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard20_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard21_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard22_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard23_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard24_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard25_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard26_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard27_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard28_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard29_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard3_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard30_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard31_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard32_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard33_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard34_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard35_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard36_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard37_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard38_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard39_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard4_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard40_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard41_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard42_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard43_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard44_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard45_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard46_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard47_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard48_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard49_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard5_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard50_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard51_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard52_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard53_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard54_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard55_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard56_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard57_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard58_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard59_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard6_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard60_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard61_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard62_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard63_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard64_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard65_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard66_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard67_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard68_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard69_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard7_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard70_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard71_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard72_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard73_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard74_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard75_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard76_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard77_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard78_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard79_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard8_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard80_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard81_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard82_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard83_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard84_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard85_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard86_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard87_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard88_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard89_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard9_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard90_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard91_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard92_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard93_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard94_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard95_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard96_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard97_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard98_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer2/weight_shard99_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer3/bias_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 32
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer3/weight/learn_norm_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 1
+  dim: 32
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer3/weight_shard0_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer3/weight_shard1_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer3/weight_shard2_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}
+network_fid {
+  name: "prod_dfm_tower/layer3/weight_shard3_ph"
+  alpha: 0.01
+  beta: 262144.0
+  lambda1: 0.0
+  lambda2: 0.0
+  dim: 2048
+  init_factor: 1.0
+  opt_type: 0
+}

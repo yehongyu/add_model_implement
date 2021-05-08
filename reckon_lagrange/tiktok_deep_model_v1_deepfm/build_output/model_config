@@ -1,0 +1,1754 @@
+layer {
+  name: "tensorflow"
+  type: "tensorflow"
+  input {
+    name: "slot_217"
+  }
+  input {
+    name: "slot_18"
+  }
+  input {
+    name: "slot_16"
+  }
+  input {
+    name: "slot_15"
+  }
+  input {
+    name: "slot_591"
+  }
+  input {
+    name: "slot_206"
+  }
+  input {
+    name: "bias"
+  }
+  input {
+    name: "slot_560"
+  }
+  input {
+    name: "slot_204"
+  }
+  input {
+    name: "slot_218"
+  }
+  input {
+    name: "slot_219"
+  }
+  input {
+    name: "slot_559"
+  }
+  input {
+    name: "slot_558"
+  }
+  input {
+    name: "slot_513"
+  }
+  input {
+    name: "slot_511"
+  }
+  input {
+    name: "slot_553"
+  }
+  input {
+    name: "slot_551"
+  }
+  input {
+    name: "slot_213"
+  }
+  input {
+    name: "slot_557"
+  }
+  input {
+    name: "slot_556"
+  }
+  input {
+    name: "slot_555"
+  }
+  input {
+    name: "slot_554"
+  }
+  input {
+    name: "slot_220"
+  }
+  input {
+    name: "slot_245"
+  }
+  input {
+    name: "slot_11"
+  }
+  input {
+    name: "slot_10"
+  }
+  input {
+    name: "slot_512"
+  }
+  input {
+    name: "slot_113"
+  }
+  input {
+    name: "slot_549"
+  }
+  input {
+    name: "slot_209"
+  }
+  input {
+    name: "slot_208"
+  }
+  input {
+    name: "slot_500"
+  }
+  input {
+    name: "slot_501"
+  }
+  input {
+    name: "slot_502"
+  }
+  input {
+    name: "slot_8"
+  }
+  input {
+    name: "slot_203"
+  }
+  input {
+    name: "slot_202"
+  }
+  input {
+    name: "slot_201"
+  }
+  input {
+    name: "slot_4"
+  }
+  input {
+    name: "slot_207"
+  }
+  input {
+    name: "slot_2"
+  }
+  input {
+    name: "slot_205"
+  }
+  input {
+    name: "slot_561"
+  }
+  input {
+    name: "slot_210"
+  }
+  input {
+    name: "prod_dfm_tower/layer3/weight_shard1_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer3/weight_shard0_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer3/weight_shard3_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer3/weight_shard2_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard11_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard10_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard13_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard12_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard15_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard14_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard17_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard16_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard30_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard18_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard32_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard33_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard34_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard35_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard36_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard37_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard48_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard49_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard40_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard41_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard42_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard43_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard44_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard45_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard46_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard47_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard212_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard213_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard102_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard218_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard168_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard169_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard219_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard162_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard163_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard160_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard161_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard166_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard167_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard164_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard165_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard104_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard3_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard2_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard1_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard0_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard7_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard6_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard5_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard4_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard9_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard8_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard89_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard88_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard81_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard80_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard83_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard82_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard85_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard84_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard87_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard86_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer3/weight_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard67_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard66_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard65_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard64_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard63_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard62_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard61_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard60_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard84_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard85_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard86_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard87_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard80_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard81_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard69_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard68_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard17_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard16_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard15_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard14_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard13_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard12_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard11_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard10_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard19_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard18_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard207_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard206_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard205_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard204_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard203_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard202_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard201_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard200_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard209_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard208_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer1/weight_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer3/weight/learn_norm_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard113_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard112_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard111_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard110_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard117_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard116_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard115_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard114_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard88_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard119_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard118_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard89_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard82_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard83_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard28_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard29_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard24_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard25_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard26_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard27_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard20_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard21_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard22_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard23_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight/learn_norm_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard38_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard39_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard29_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard28_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard23_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard22_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard21_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard20_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard27_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard26_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard25_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard24_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard59_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard58_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard53_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard52_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard51_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard50_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard57_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard56_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard55_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard54_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard103_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard19_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard101_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard100_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard107_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard106_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard105_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard31_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard109_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard108_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer1/bias_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard157_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard156_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard155_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard154_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard153_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard152_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard151_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard150_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard159_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard158_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer3/weight/learn_norm_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/bias_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer1/weight/learn_norm_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/bias_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer3/bias_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight/learn_norm_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer3/bias_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard52_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard53_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard50_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard51_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard56_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard57_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard54_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard55_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard97_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard96_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard58_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard59_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard93_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard92_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard91_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard90_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard22_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard23_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard20_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard21_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard26_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard27_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard24_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard25_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard28_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard29_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard210_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard211_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard199_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard198_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard214_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard215_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard216_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard217_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard193_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard192_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard191_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard190_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard197_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard196_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard195_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard194_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/bias_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard108_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard109_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard104_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard105_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard106_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard107_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard100_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard101_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard102_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard103_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard71_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard75_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard73_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard77_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard75_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard74_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard77_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard31_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard30_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard16_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard17_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard14_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard15_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard12_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard13_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard10_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard11_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard18_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard19_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard4_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard5_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard6_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard7_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard0_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard1_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard2_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard3_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard8_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard9_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard118_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard119_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard114_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard115_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard116_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard117_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard110_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard111_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard112_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard113_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard66_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard67_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard64_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard65_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard62_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard63_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard60_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard61_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard68_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard69_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard140_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard141_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard142_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard143_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard144_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard145_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard146_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard147_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard148_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard149_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard221_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard220_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard222_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard9_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard8_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard1_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard0_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard3_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard2_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard5_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard4_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard7_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight_shard6_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard135_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard134_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard137_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard136_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard131_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard130_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard133_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard132_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard139_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard138_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard49_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard48_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard45_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard44_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard47_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard46_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard41_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard40_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard43_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard42_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard39_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard38_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard35_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard34_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard37_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard36_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard31_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard30_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard33_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard32_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard125_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard124_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard127_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard126_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard121_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard120_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard123_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard122_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard184_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard185_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard186_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard187_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard180_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard181_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard182_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard183_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard188_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard189_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard179_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard178_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard171_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard170_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard173_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard172_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard175_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard174_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard177_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard176_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard98_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard99_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard96_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard97_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard94_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard95_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard92_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard93_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard90_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard91_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard76_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard74_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard70_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard76_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard72_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard70_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard71_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard72_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard73_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard79_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard78_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard78_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer2/weight_shard79_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "nn_tower/layer2/weight/learn_norm_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard99_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard98_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard95_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard94_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard126_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard127_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard124_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard125_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard122_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard123_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard120_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard121_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard128_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "prod_dfm_tower/layer1/weight_shard129_ph"
+    init_method: InitInGraph
+  }
+  input {
+    name: "label"
+    diff: false
+  }
+  input {
+    name: "sample_rate"
+    diff: false
+  }
+  input {
+    name: "global_step"
+    diff: false
+  }
+  output {
+    name: "pred"
+  }
