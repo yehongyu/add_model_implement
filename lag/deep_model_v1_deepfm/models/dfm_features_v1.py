@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-'''
-1. 按照抖音线上模型aweme.mix.click.py copy过来
-2. 不增加region和lang特征
-'''
 
 context = [
     #deprecated 7 f_chn_id 9 f_periodofday
@@ -127,15 +123,14 @@ push_group_info = [
 
 
 ''' 
-#tiktok 曾经使用过的特征
-tiktok_user_recent_gid = [
+user_recent_gid = [
     524,  #f_u_push_click_2_gids
     525,  #f_u_push_click_4_gids
     526,  #f_u_push_click_8_gids
     527,  #f_u_push_click_16_gids
 ]
 
-tiktok_user_match = [
+user_match = [
     583,  #f_ug_push_type_region_lang
 ]
 

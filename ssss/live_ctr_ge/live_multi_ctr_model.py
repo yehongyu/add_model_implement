@@ -28,7 +28,7 @@ from sail.feature import FeatureSlot, FeatureColumnV2
 from sail.feature import FeatureColumnV1
 from sail.feature import FeatureColumnDense
 
-from live_aweme_feature_v2 import *
+from live_feature_v2 import *
 from utils import *
 
 BUCKET_NUM = 500
@@ -103,10 +103,10 @@ for slot_id in VALID_SLOTS:
     fc_dict[slot_id] = FeatureColumnV1(fs)
 
 # get ue
-ue_name = 'fc_aweme_finish_61294_uid_d128'
-fc_aweme_ue = FeatureColumnDense(ue_name, 128)
-fc_aweme_ue_raw = fc_aweme_ue.get_tensor()
-tf.summary.histogram(ue_name, fc_aweme_ue_raw)
+ue_name = 'fc_finish_61294_uid_d128'
+fc_ue = FeatureColumnDense(ue_name, 128)
+fc_ue_raw = fc_ue.get_tensor()
+tf.summary.histogram(ue_name, fc_ue_raw)
 
 # Start to build model
 towers = []
@@ -256,7 +256,7 @@ for x, y, dim in FM_SLOTS:
 
 # UE FFM
 for y, dim in UE_FM_SLOTS:
-    ue = compress_embedding(fc_aweme_ue_raw, [128, 128], 'ue_in_fm_{}'.format(y))
+    ue = compress_embedding(fc_ue_raw, [128, 128], 'ue_in_fm_{}'.format(y))
     vec_y = [fc_dict[sid].add_vector(dim) for sid in S.generic_utils.to_list(y)]
     ffm_inputs.append((ue, vec_y))
 
@@ -305,7 +305,7 @@ if KEEP_ORIGINAL_FM:
 # select concat nn， alloc_slot_vec   -> UE and GE included
 if len(SELECT_CONCAT_SLOTS) > 0:
 
-    fc_aweme_ue_tensor = compress_embedding(fc_aweme_ue_raw, [128, 128], ue_name)  # UE
+    fc_ue_tensor = compress_embedding(fc_ue_raw, [128, 128], ue_name)  # UE
     if USE_GE:
         ge_emb_tensor = compress_embedding(uid_ge_emb, [128, 128], 'ge_in_concat')  # GE
 
@@ -314,7 +314,7 @@ if len(SELECT_CONCAT_SLOTS) > 0:
         vec = fc_dict[slot_id].add_vector(dim)
         concat_embeddings.append(vec)
 
-    concat_embeddings.append(fc_aweme_ue_tensor)  # UE
+    concat_embeddings.append(fc_ue_tensor)  # UE
     if USE_GE:
         concat_embeddings.append(ge_emb_tensor)  # GE
 
@@ -387,8 +387,8 @@ for id, name in channel_id_2_channel_name.items():
 M.set_global_gradient_clip_norm(250.0)
 
 if USE_GE and is_training and not euler_ops.initialize_graph({'mode': 'Remote',
-                                                              'zk_server': '10.6.15.38:2181',
-                                                              'zk_path': '/tf_euler_application_aweme_live_u2a_1d_v1'}):
+                                                              'zk_server': '10.0.0.1:2181',
+                                                              'zk_path': '/tf_euler_application_live_u2a_1d_v1'}):
     raise RuntimeError('Failed to initialize graph in worker.')
 
 # compile the whole model for training

@@ -1,7 +1,5 @@
 # -*- encoding=utf-8 -*-
 
-"""Aweme Multitask model v6 (MMOE/SNR/SB)
-"""
 
 from common import *
 
@@ -579,7 +577,7 @@ def gen_config():
                 'init_factor': 1.0
             })
 
-        model_name = 'aweme_deep_model_multitask_v5'
+        model_name = 'deep_model_multitask_v5'
 
         parser.set_extra_parameters(
             '-label_names=like,share,comment,follow,head,click_comment,dislike,cover,challenge,shoot,finish,read,staytime,pc -multi_targets_setting=finish,pc -kafka_dump=0 -has_sort_id=0 -file_type=proto')

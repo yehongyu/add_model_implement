@@ -11,8 +11,6 @@ from textops.tensorflow.nlp_bert_tokenize import nlp_bert_tokenize_and_look_op
 from tensorflow.python.ops import lookup_ops
 
 
-# 更详细的使用方式见： https://bytedance.feishu.cn/docs/doccnuhB4w3xsITTYI7YOrP3otb
-# 更多模型见： https://bytedance.feishu.cn/docs/doccnjt9hDk7tVur5swfi08jYbf#
 check_model_json = "triplet_on_qt70b_14Bbdu_archer_fix/model_config.json"
 vocab_file = "triplet_on_qt70b_14Bbdu_archer_fix/fine_fix.txt"
 model_dir = "triplet_on_qt70b_14Bbdu_archer_fix"

@@ -31,7 +31,7 @@ def test_model(model_dir):
     print('computer:', model['孩子']) #获取单词的词向量
 
 if __name__ == "__main__":
-    data_path = "toutiao_cmt_cut_text_0101_0811.1w.data"
+    data_path = "cmt_cut_text_0101_0811.1w.data"
     model_dir = "cmt_cut_w2v"
     train(model_dir, data_path)
     test_model(model_dir)

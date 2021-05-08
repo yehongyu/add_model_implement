@@ -4,7 +4,7 @@ import lagrange_model as lgm
 import math
 
 
-def toutiao_init_func(shape):
+def init_func(shape):
     """Xavier initialization. See http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
     """
     print
@@ -92,7 +92,7 @@ def generate_model(model_name):
         # prod_dfm_out
         # prod_emb = tf.concat(emb_prod, axis=1)
         # prod_emb_dim = int(prod_emb.shape[1])
-        # prod_dfm_init_funcs = [toutiao_init_func] * len(FFM_DIMS)
+        # prod_dfm_init_funcs = [init_func] * len(FFM_DIMS)
         # prod_dfm_out = lgm.deep_tower(input_t = prod_emb, input_dim = prod_emb_dim, output_dims = FFM_DIMS, name = 'prod_dfm_tower', init_funcs=prod_dfm_init_funcs, use_weight_norm=True)
         # prod_dfm_out = tf.reduce_sum(prod_dfm_out, axis=1)
         # ffm_out
@@ -101,7 +101,7 @@ def generate_model(model_name):
         emb_prod, _ = get_cross_prods(FFM_TRIPPLES)
         prod_emb = tf.concat(emb_prod, axis=1)
         prod_emb_dim = int(prod_emb.shape[1])
-        prod_dfm_init_funcs = [toutiao_init_func] * len(FFM_DIMS)
+        prod_dfm_init_funcs = [init_func] * len(FFM_DIMS)
         prod_dfm_out = lgm.deep_tower(input_t=prod_emb, input_dim=prod_emb_dim, output_dims=FFM_DIMS,
                                       name='prod_dfm_tower', init_funcs=prod_dfm_init_funcs, use_weight_norm=True)
         prod_dfm_out = tf.reduce_sum(prod_dfm_out, axis=1)
@@ -109,7 +109,7 @@ def generate_model(model_name):
         # concat_dfm_out
         # concat_emb = tf.concat(emb_concat, axis=1)
         # concat_emb_dim = int(concat_emb.shape[1])
-        # concat_dfm_init_funcs = [toutiao_init_func] * len(C_DIMS)
+        # concat_dfm_init_funcs = [init_func] * len(C_DIMS)
         # concat_dfm_out = lgm.deep_tower(input_t = concat_emb, input_dim = concat_emb_dim, output_dims = C_DIMS, name = 'concat_dfm_tower', init_funcs=concat_dfm_init_funcs, use_weight_norm=False)
 
         # towers = [nn_out, prod_dfm_out]
@@ -191,6 +191,6 @@ def set_meta_config(parser):
 
 if __name__ == '__main__':
     """please set an appropriate model name"""
-    model_name = 'tiktok_tf_nn'
+    model_name = 'tf_nn'
     generate_model(model_name)
 

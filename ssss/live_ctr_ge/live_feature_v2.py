@@ -1,17 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-########################################################################
-#
-# Copyright (c) 2019 Bytedance.com, Inc. All Rights Reserved
-#
-########################################################################
-
-"""
-File: live_aweme_feature_v2.py
-Author: luhao(luhao@bytedance.com)
-Date: 2019/08/13 21:21:18
-Desc: bytegraph decay profile replace ips
-"""
 
 FM_SLOTS = [
     (1, 2, 128),  # f_user, f_gid

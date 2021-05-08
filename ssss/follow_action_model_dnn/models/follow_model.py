@@ -1,5 +1,4 @@
 # -*- encoding=utf-8 -*-
-# aweme followfeed nn model
 from feature import *
 import sys
 import math
